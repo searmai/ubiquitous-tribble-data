@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+# Repository of Sean Main
 
-**I** _see_ how **to** _do_  ~~wonderful~~ **TERRIBLE** things **with** _text!_.
+Text can be **I** _see_ how **to** _do_  ~~wonderful~~ **TERRIBLE** things **with** _text!_.
 
 [Link to Basic Graphing Assignment](./BasicGraphAssignment.ipynb).
 
