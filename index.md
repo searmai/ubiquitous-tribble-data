@@ -13,4 +13,4 @@ Text can be **I** _see_ how **to** _do_  ~~wonderful~~ **TERRIBLE** things **wit
 
 [Link to an HTML rendering of a Jupyter Notebook](./BasicGraphAssignment.ipynb).
 
-[Link to a GitHub.com repository](./ubiquitous-tribble-data//index.md).
+[Link to a GitHub.com repository](./index.md).
